@@ -1,0 +1,15 @@
+version: '3'
+
+services:   
+    php:
+        build:
+            context: .
+            dockerfile: docker/Dockerfile
+            args:
+                TIMEZONE: ${TIMEZONE}
+#        volumes:
+#            - ./CigaretteMachine/:/var/www/symfony/
+        networks:
+            - symfony
+networks:
+    symfony:
