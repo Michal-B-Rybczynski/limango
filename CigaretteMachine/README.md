@@ -13,8 +13,6 @@ to get his change.
 Example:
 
 ```
-╭─vicgey@limango:/home
-╰─$ php bin/console purchase-cigarettes 2 10.00
 
 You bought 2 packs of cigarettes for -9,98€, each for -4,99€.
 
