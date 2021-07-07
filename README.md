@@ -1,4 +1,4 @@
-# Limango test project implementation
+test project implementation
 
 ##### 1. [task definition](CigaretteMachine/README.md)
 
