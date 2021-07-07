@@ -1,16 +1,6 @@
 Codingtest
 =========
 
-### Setup
-System requirements:
-- PHP 5.6
-- Composer
-
-### Intro
-Hi and welcome to limango! You're now going to participate in
-a short coding test to test to your ability to think logical, 
-to work independently with a given situation or environment and
-develop in a smart, goal-oriented way.
 
 ### Task
 Your product owner has given you the task of developing a
