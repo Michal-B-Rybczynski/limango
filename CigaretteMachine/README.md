@@ -28,5 +28,4 @@ Your change is:
 
 #### Pitfalls
 Think of scenarios like "less money given than total cost of
-amount" and please use the predefined project structure 
-(command,interfaces etc.)
+amount"
