@@ -1,8 +1,4 @@
-Codingtest
-=========
-
-
-### Task
+## Task
 Your product owner has given you the task of developing a
 small CLI cigarette machine. The input should be the amount
 of packs a potential customer could want and the amount he is
