@@ -7,7 +7,7 @@ Your product owner has given you the task of developing a
 small CLI cigarette machine. The input should be the amount
 of packs a potential customer could want and the amount he is
 going to give. The price per cigarette pack is a static -4,99€.
-You *dont* have to think about currencies, there are only €!
+
 
 The result should be printed on the screen with the count and 
 the total amount of the purchased packs as well as a table 
